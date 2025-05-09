@@ -335,7 +335,7 @@ Find Alexei		21
 Watch a clip from the documentary		21
 Play 10 different games		21
 1 minute of Technotris		21
-1 minute of Kalinka		21
+1 minute of Karinka		21
 1 minute of Troika		21"""
 
 categories = parse_goals(goals_text)
