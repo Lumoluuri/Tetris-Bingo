@@ -325,7 +325,7 @@ Fight Mode - Boss 3-4	Super Bombliss DX	19
 Fight Mode - Boss 5-6	Super Bombliss DX	19
 Contest 1-10	Super Bombliss DX	19
 Modern Marathon	Tetris Time Warp	20
-1989 Marathon	Tetris Time Warp	20
+1989 Marathon (100 lines)	Tetris Time Warp	20
 150 lines	Tetris Time Warp	20
 999,999 Points	Tetris Time Warp	20
 40-Line Attack (Level 30)	Tetris Time Warp	20
